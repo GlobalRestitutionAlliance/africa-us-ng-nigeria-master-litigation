@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nigerian-restitution-roadmap-and-qsf-trust-execution
-  name: Nigerian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/nigerian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ng_001
+    name: Nigeria Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_002
+    name: Nigeria Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_003
+    name: Nigeria Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_004
+    name: Nigeria Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_005
+    name: Nigeria Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_006
+    name: Nigeria Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_007
+    name: Nigeria Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_008
+    name: Nigeria Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_009
+    name: Nigeria Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_010
+    name: Nigeria Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_011
+    name: Nigeria Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_012
+    name: Nigeria Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_013
+    name: Nigeria Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_014
+    name: Nigeria Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_015
+    name: Nigeria Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_016
+    name: Nigeria Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_017
+    name: Nigeria Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_018
+    name: Nigeria Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_019
+    name: Nigeria Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_020
+    name: Nigeria Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_021
+    name: Nigeria Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_022
+    name: Nigeria Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_023
+    name: Nigeria Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_024
+    name: Nigeria Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_025
+    name: Nigeria Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_026
+    name: Nigeria Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_027
+    name: Nigeria Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_028
+    name: Nigeria Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_029
+    name: Nigeria Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_030
+    name: Nigeria Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_031
+    name: Nigeria Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_032
+    name: Nigeria Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_033
+    name: Nigeria Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_034
+    name: Nigeria Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_035
+    name: Nigeria Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_036
+    name: Nigeria Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_037
+    name: Nigeria Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_038
+    name: Nigeria Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_039
+    name: Nigeria Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_040
+    name: Nigeria Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_041
+    name: Nigeria Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_042
+    name: Nigeria Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_043
+    name: Nigeria Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_044
+    name: Nigeria Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_045
+    name: Nigeria Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_046
+    name: Nigeria Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_047
+    name: Nigeria Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_048
+    name: Nigeria Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_049
+    name: Nigeria Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_050
+    name: Nigeria Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_051
+    name: Nigeria Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_052
+    name: Nigeria Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_053
+    name: Nigeria Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_054
+    name: Nigeria Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_055
+    name: Nigeria Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_056
+    name: Nigeria Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_057
+    name: Nigeria Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_058
+    name: Nigeria Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_059
+    name: Nigeria Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_060
+    name: Nigeria Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_061
+    name: Nigeria Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_062
+    name: Nigeria Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_063
+    name: Nigeria Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_064
+    name: Nigeria Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_065
+    name: Nigeria Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_066
+    name: Nigeria Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_067
+    name: Nigeria Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_068
+    name: Nigeria Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_069
+    name: Nigeria Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_070
+    name: Nigeria Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_071
+    name: Nigeria Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_072
+    name: Nigeria Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_073
+    name: Nigeria Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_074
+    name: Nigeria Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_075
+    name: Nigeria Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_076
+    name: Nigeria Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_077
+    name: Nigeria Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_078
+    name: Nigeria Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_079
+    name: Nigeria Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_080
+    name: Nigeria Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_081
+    name: Nigeria Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_082
+    name: Nigeria Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_083
+    name: Nigeria Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_084
+    name: Nigeria Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_085
+    name: Nigeria Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_086
+    name: Nigeria Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_087
+    name: Nigeria Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_088
+    name: Nigeria Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_089
+    name: Nigeria Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_090
+    name: Nigeria Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_091
+    name: Nigeria Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_092
+    name: Nigeria Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_093
+    name: Nigeria Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_094
+    name: Nigeria Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_095
+    name: Nigeria Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_096
+    name: Nigeria Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_097
+    name: Nigeria Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_098
+    name: Nigeria Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_099
+    name: Nigeria Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_100
+    name: Nigeria Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_101
+    name: Nigeria Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_102
+    name: Nigeria Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_103
+    name: Nigeria Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_104
+    name: Nigeria Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_105
+    name: Nigeria Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_106
+    name: Nigeria Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_107
+    name: Nigeria Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_108
+    name: Nigeria Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_109
+    name: Nigeria Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_110
+    name: Nigeria Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_111
+    name: Nigeria Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_112
+    name: Nigeria Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_113
+    name: Nigeria Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_114
+    name: Nigeria Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_115
+    name: Nigeria Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_116
+    name: Nigeria Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_117
+    name: Nigeria Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_118
+    name: Nigeria Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_119
+    name: Nigeria Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_120
+    name: Nigeria Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_121
+    name: Nigeria Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_122
+    name: Nigeria Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_123
+    name: Nigeria Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_124
+    name: Nigeria Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_125
+    name: Nigeria Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_126
+    name: Nigeria Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_127
+    name: Nigeria Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_128
+    name: Nigeria Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_129
+    name: Nigeria Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_130
+    name: Nigeria Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_131
+    name: Nigeria Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_132
+    name: Nigeria Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_133
+    name: Nigeria Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_134
+    name: Nigeria Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_135
+    name: Nigeria Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_136
+    name: Nigeria Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_137
+    name: Nigeria Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_138
+    name: Nigeria Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_139
+    name: Nigeria Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_140
+    name: Nigeria Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_141
+    name: Nigeria Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_142
+    name: Nigeria Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_143
+    name: Nigeria Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_144
+    name: Nigeria Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_145
+    name: Nigeria Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_146
+    name: Nigeria Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_147
+    name: Nigeria Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_148
+    name: Nigeria Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_149
+    name: Nigeria Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_150
+    name: Nigeria Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_151
+    name: Nigeria Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_152
+    name: Nigeria Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_153
+    name: Nigeria Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_154
+    name: Nigeria Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_155
+    name: Nigeria Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_156
+    name: Nigeria Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_157
+    name: Nigeria Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_158
+    name: Nigeria Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_159
+    name: Nigeria Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_160
+    name: Nigeria Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_161
+    name: Nigeria Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_162
+    name: Nigeria Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_163
+    name: Nigeria Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_164
+    name: Nigeria Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_165
+    name: Nigeria Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_166
+    name: Nigeria Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_167
+    name: Nigeria Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_168
+    name: Nigeria Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_169
+    name: Nigeria Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_170
+    name: Nigeria Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_171
+    name: Nigeria Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_172
+    name: Nigeria Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_173
+    name: Nigeria Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_174
+    name: Nigeria Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_175
+    name: Nigeria Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_176
+    name: Nigeria Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_177
+    name: Nigeria Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_178
+    name: Nigeria Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_179
+    name: Nigeria Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_180
+    name: Nigeria Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_181
+    name: Nigeria Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_182
+    name: Nigeria Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_183
+    name: Nigeria Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_184
+    name: Nigeria Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_185
+    name: Nigeria Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_186
+    name: Nigeria Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_187
+    name: Nigeria Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_188
+    name: Nigeria Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_189
+    name: Nigeria Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_190
+    name: Nigeria Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_191
+    name: Nigeria Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_192
+    name: Nigeria Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_193
+    name: Nigeria Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_194
+    name: Nigeria Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_195
+    name: Nigeria Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_196
+    name: Nigeria Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_197
+    name: Nigeria Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_198
+    name: Nigeria Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_199
+    name: Nigeria Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_200
+    name: Nigeria Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_201
+    name: Nigeria Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_202
+    name: Nigeria Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_203
+    name: Nigeria Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_204
+    name: Nigeria Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_205
+    name: Nigeria Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_206
+    name: Nigeria Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_207
+    name: Nigeria Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_208
+    name: Nigeria Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_209
+    name: Nigeria Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_210
+    name: Nigeria Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_211
+    name: Nigeria Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_212
+    name: Nigeria Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_213
+    name: Nigeria Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_214
+    name: Nigeria Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_215
+    name: Nigeria Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_216
+    name: Nigeria Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_217
+    name: Nigeria Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_218
+    name: Nigeria Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_219
+    name: Nigeria Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_220
+    name: Nigeria Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_221
+    name: Nigeria Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_222
+    name: Nigeria Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_223
+    name: Nigeria Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_224
+    name: Nigeria Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_225
+    name: Nigeria Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_226
+    name: Nigeria Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_227
+    name: Nigeria Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_228
+    name: Nigeria Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_229
+    name: Nigeria Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_230
+    name: Nigeria Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_231
+    name: Nigeria Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_232
+    name: Nigeria Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_233
+    name: Nigeria Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_234
+    name: Nigeria Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_235
+    name: Nigeria Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_236
+    name: Nigeria Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_237
+    name: Nigeria Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_238
+    name: Nigeria Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_239
+    name: Nigeria Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_240
+    name: Nigeria Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_241
+    name: Nigeria Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_242
+    name: Nigeria Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_243
+    name: Nigeria Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_244
+    name: Nigeria Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_245
+    name: Nigeria Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_246
+    name: Nigeria Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_247
+    name: Nigeria Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_248
+    name: Nigeria Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_249
+    name: Nigeria Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_250
+    name: Nigeria Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_251
+    name: Nigeria Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ng_252
+    name: Nigeria Skill 252
+    status: ACTIVE_SCAFFOLD

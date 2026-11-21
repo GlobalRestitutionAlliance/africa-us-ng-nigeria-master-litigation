@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-nigeria-canal-and-intervention-historian
-  name: Nigeria Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-nigeria-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ng_001
+    name: Nigeria Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_002
+    name: Nigeria Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_003
+    name: Nigeria Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_004
+    name: Nigeria Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_005
+    name: Nigeria Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_006
+    name: Nigeria Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_007
+    name: Nigeria Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_008
+    name: Nigeria Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_009
+    name: Nigeria Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_010
+    name: Nigeria Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_011
+    name: Nigeria Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_012
+    name: Nigeria Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_013
+    name: Nigeria Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_014
+    name: Nigeria Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_015
+    name: Nigeria Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_016
+    name: Nigeria Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_017
+    name: Nigeria Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_018
+    name: Nigeria Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_019
+    name: Nigeria Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_020
+    name: Nigeria Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_021
+    name: Nigeria Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_022
+    name: Nigeria Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_023
+    name: Nigeria Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_024
+    name: Nigeria Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_025
+    name: Nigeria Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_026
+    name: Nigeria Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_027
+    name: Nigeria Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_028
+    name: Nigeria Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_029
+    name: Nigeria Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_030
+    name: Nigeria Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_031
+    name: Nigeria Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_032
+    name: Nigeria Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_033
+    name: Nigeria Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_034
+    name: Nigeria Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_035
+    name: Nigeria Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_036
+    name: Nigeria Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_037
+    name: Nigeria Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_038
+    name: Nigeria Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_039
+    name: Nigeria Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_040
+    name: Nigeria Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_041
+    name: Nigeria Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_042
+    name: Nigeria Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_043
+    name: Nigeria Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_044
+    name: Nigeria Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_045
+    name: Nigeria Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_046
+    name: Nigeria Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_047
+    name: Nigeria Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_048
+    name: Nigeria Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_049
+    name: Nigeria Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_050
+    name: Nigeria Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_051
+    name: Nigeria Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_052
+    name: Nigeria Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_053
+    name: Nigeria Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_054
+    name: Nigeria Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_055
+    name: Nigeria Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_056
+    name: Nigeria Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_057
+    name: Nigeria Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_058
+    name: Nigeria Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_059
+    name: Nigeria Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_060
+    name: Nigeria Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_061
+    name: Nigeria Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_062
+    name: Nigeria Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_063
+    name: Nigeria Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_064
+    name: Nigeria Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_065
+    name: Nigeria Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_066
+    name: Nigeria Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_067
+    name: Nigeria Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_068
+    name: Nigeria Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_069
+    name: Nigeria Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_070
+    name: Nigeria Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_071
+    name: Nigeria Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_072
+    name: Nigeria Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_073
+    name: Nigeria Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_074
+    name: Nigeria Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_075
+    name: Nigeria Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_076
+    name: Nigeria Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_077
+    name: Nigeria Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_078
+    name: Nigeria Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_079
+    name: Nigeria Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_080
+    name: Nigeria Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_081
+    name: Nigeria Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_082
+    name: Nigeria Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_083
+    name: Nigeria Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_084
+    name: Nigeria Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_085
+    name: Nigeria Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_086
+    name: Nigeria Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_087
+    name: Nigeria Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_088
+    name: Nigeria Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_089
+    name: Nigeria Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_090
+    name: Nigeria Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_091
+    name: Nigeria Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_092
+    name: Nigeria Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_093
+    name: Nigeria Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_094
+    name: Nigeria Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_095
+    name: Nigeria Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_096
+    name: Nigeria Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_097
+    name: Nigeria Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_098
+    name: Nigeria Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_099
+    name: Nigeria Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_100
+    name: Nigeria Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_101
+    name: Nigeria Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_102
+    name: Nigeria Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_103
+    name: Nigeria Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_104
+    name: Nigeria Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_105
+    name: Nigeria Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_106
+    name: Nigeria Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_107
+    name: Nigeria Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_108
+    name: Nigeria Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_109
+    name: Nigeria Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_110
+    name: Nigeria Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_111
+    name: Nigeria Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_112
+    name: Nigeria Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_113
+    name: Nigeria Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_114
+    name: Nigeria Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_115
+    name: Nigeria Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_116
+    name: Nigeria Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_117
+    name: Nigeria Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_118
+    name: Nigeria Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_119
+    name: Nigeria Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_120
+    name: Nigeria Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_121
+    name: Nigeria Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_122
+    name: Nigeria Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_123
+    name: Nigeria Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_124
+    name: Nigeria Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_125
+    name: Nigeria Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_126
+    name: Nigeria Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_127
+    name: Nigeria Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_128
+    name: Nigeria Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_129
+    name: Nigeria Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_130
+    name: Nigeria Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_131
+    name: Nigeria Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_132
+    name: Nigeria Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_133
+    name: Nigeria Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_134
+    name: Nigeria Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_135
+    name: Nigeria Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_136
+    name: Nigeria Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_137
+    name: Nigeria Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_138
+    name: Nigeria Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_139
+    name: Nigeria Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_140
+    name: Nigeria Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_141
+    name: Nigeria Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_142
+    name: Nigeria Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_143
+    name: Nigeria Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_144
+    name: Nigeria Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_145
+    name: Nigeria Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_146
+    name: Nigeria Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_147
+    name: Nigeria Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_148
+    name: Nigeria Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_149
+    name: Nigeria Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_150
+    name: Nigeria Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_151
+    name: Nigeria Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_152
+    name: Nigeria Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_153
+    name: Nigeria Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_154
+    name: Nigeria Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_155
+    name: Nigeria Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_156
+    name: Nigeria Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_157
+    name: Nigeria Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_158
+    name: Nigeria Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_159
+    name: Nigeria Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_160
+    name: Nigeria Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_161
+    name: Nigeria Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_162
+    name: Nigeria Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_163
+    name: Nigeria Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_164
+    name: Nigeria Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_165
+    name: Nigeria Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_166
+    name: Nigeria Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_167
+    name: Nigeria Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_168
+    name: Nigeria Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_169
+    name: Nigeria Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ng_170
+    name: Nigeria Agent 170
+    status: ACTIVE_SCAFFOLD
